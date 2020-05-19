@@ -18,7 +18,23 @@ if bullish trend(VBMO>threshold) and trendline signal
 else if short signal
 
   then short
-  
+
+
+Results:
+
+Product:HSI future
+
+Max position:3
+
+Final Portfolio Value: 100023653.00
+
+SR: OrderedDict([('sharperatio', 1.1787277686933937)])
+
+DW: AutoOrderedDict([('len', 14787), ('drawdown', 0.0010557391374165358), ('moneydown', 1056.0), ('max', AutoOrderedDict([('len', 
+
+27089), ('drawdown', 0.002463847438566604), ('moneydown', 2464.0)]))])
+
+SQN: AutoOrderedDict([('sqn', 3.5344221568969414), ('trades', 875)])
 
 
 # Reference:
