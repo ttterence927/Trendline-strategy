@@ -2,14 +2,23 @@
 
 # Description
 Strategy logic:
+
 if exit bullish trend or take profit or stop loss
+
   then close long
+  
 if stop loss or take profit
+
   then close short
+  
 if bullish trend(VBMO>threshold) and trendline signal
+
   then long
+  
 else if short signal
+
   then short
+  
 
 
 # Reference:
